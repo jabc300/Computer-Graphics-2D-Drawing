@@ -2,7 +2,7 @@
 
 This program draw a...
 
-1.Line (giving used to 2 points).
+1.Line (giving 2 points).
 
 2.Circunference (giving the radius r).
 
