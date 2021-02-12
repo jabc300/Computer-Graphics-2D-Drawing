@@ -4,7 +4,7 @@ This program draw a...
 
 1.Line (giving 2 points).
 
-2.Circunference (giving the radius r).
+2.Circumference (giving the radius r).
 
 3.Ellipse (giving value a and b).
 
